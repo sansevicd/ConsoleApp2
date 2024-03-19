@@ -8,5 +8,5 @@ Console.WriteLine("Novo2");
 class MojaKlasa
 {
     string a = "nice";
-    
+    string b = "good"
 }
