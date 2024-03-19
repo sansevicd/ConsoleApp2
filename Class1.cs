@@ -8,6 +8,6 @@ namespace ConsoleApp2
 {
     internal class Class1
     {
-        konflikt4
+        konflikt novi
     }
 }
